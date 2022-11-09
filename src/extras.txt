@@ -1,0 +1,16 @@
+CSE 331 Homework.  Answers to written questions.
+Edit this file to supply your answers.
+
+Name:  Nathan Gomez
+
+Describe any additional functionality you added to your application, or any
+significant changes you made to the starter code beyond the basic requirements
+of the assignment, below:
+
+I added a prompt that has the rules for the application. If those
+rules are broken, the website will not crash, but it also won't tell
+you that it failed, or it will not work in the intended way.
+
+I had the EdgeList class do all the parsing to make things easier for Map
+
+
